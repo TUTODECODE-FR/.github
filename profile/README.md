@@ -4,7 +4,7 @@
   <h1>🚀 L'ÉCOSYSTÈME TUTODECODE A MIGRÉ VERS GITLAB</h1>
   <br/>
 
-  <p><strong>ZÉRO CLOUD • 100% HORS-LIGNE • SOUVERAINETÉ TOTALE</strong></p>
+  <p><strong>OPEN SOURCE • INDÉPENDANCE • SOUVERAINETÉ</strong></p>
 
   [![GitLab](https://img.shields.io/badge/Rejoignez--nous_sur_GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/tutodecode-org)
 </div>
@@ -13,9 +13,9 @@
 
 ### ⚠️ AVIS IMPORTANT
 
-En accord avec nos principes d'**indépendance technologique**, de **cybersécurité** et de **confidentialité absolue**, l'ensemble de l'organisation TUTODECODE a définitivement quitté GitHub pour s'établir sur GitLab.
+En accord avec nos principes de **transparence** et d'**indépendance technologique**, l'ensemble de l'organisation TUTODECODE a définitivement quitté GitHub pour s'établir sur GitLab.
 
-Notre philosophie **"Zero Cloud"** exige une souveraineté numérique totale. Les politiques actuelles des grandes plateformes cloud ne sont plus en adéquation avec la vision fondamentale de nos projets. Nous reprenons le contrôle.
+Bien que le code doive être hébergé pour le travail collaboratif, nous privilégions des plateformes reposant sur un cœur Open Source (Open Core) comme GitLab, plutôt que des écosystèmes fermés. Cela reflète mieux l'ADN de nos projets, qui sont eux-mêmes conçus pour fonctionner de manière totalement souveraine, 100% hors-ligne et sans dépendance (Zero Cloud).
 
 #### Ce que vous trouverez sur notre nouvel espace :
 - **[T2DECODE](https://gitlab.com/tutodecode-org/T2DECODE)** : Notre plateforme d'apprentissage hors-ligne (Simulateurs, NetKit, Outils de sécurité, IA locale intégrée).
@@ -31,5 +31,5 @@ Notre philosophie **"Zero Cloud"** exige une souveraineté numérique totale. Le
 
 ---
 <div align="center">
-  <i>« Reprenez le contrôle de vos données, de vos outils et de votre apprentissage. »</i>
+  <i>« L'apprentissage et la cybersécurité nécessitent des outils libres et transparents. »</i>
 </div>
