@@ -1,52 +1,38 @@
 <div align="center">
 
-<img src="https://gitlab.com/tutodecode-org/T2DECODE/-/raw/main/assets/TDC.png" alt="TUTODECODE" width="220"/>
+<img src="https://raw.githubusercontent.com/TUTODECODE-FR/T2DECODE/main/assets/TDC.png" alt="TUTODECODE" width="180"/>
 
-<br/>
+# TUTODECODE
 
-# L'ORGANISATION TUTODECODE ÉVOLUE
-
-**Souveraineté Numérique • Open Source • Zéro Cloud**
-
-<br/>
-
-<a href="https://gitlab.com/tutodecode-org">
-  <img src="https://img.shields.io/badge/Accéder_à_l'organisation_sur_GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-</a>
-
-<br/><br/>
+Association qui crée des logiciels libres pour apprendre l'informatique,
+les réseaux et la cybersécurité, sans cloud et sans collecte de données.
 
 </div>
 
----
+## Nos projets
 
-### Une Nouvelle Étape pour TUTODECODE
+**[T2DECODE](https://github.com/TUTODECODE-FR/T2DECODE)**
+Application d'apprentissage qui fonctionne entièrement hors ligne : cours, simulateur réseau,
+terminal d'entraînement, outils du quotidien et assistant local optionnel. Pensée pour les salles
+de TP des lycées, BTS et IUT. Windows, macOS, Linux et Android.
+[Télécharger la dernière version](https://github.com/TUTODECODE-FR/T2DECODE/releases/latest)
 
-TUTODECODE s'est toujours donné pour mission de fournir des outils d'apprentissage de haute qualité dans les domaines de la cybersécurité, de l'administration système et des réseaux, avec une exigence absolue : **l'indépendance technologique**.
+**[TDC-SDK](https://github.com/TUTODECODE-FR/tdc-sdk)**
+Outils pour écrire des cours au format `.tdc` et les ouvrir dans T2DECODE.
 
-Aujourd'hui, l'ensemble de nos projets et de notre communauté migre officiellement vers **GitLab**. 
+**[T2C Phantom](https://github.com/TUTODECODE-FR/T2C-Phantom)** et son
+**[relais](https://github.com/TUTODECODE-FR/T2C-Phantom-relay)**
+Réseau de pair à pair pour publier et consulter des sites signés sans exposer l'adresse IP de
+ceux qui les hébergent. En cours de finalisation.
 
-#### Pourquoi ce changement stratégique ?
+## Principes
 
-1. **Cohérence Éthique et Technique** : Nos solutions, à l'image de T2DECODE, sont architecturées pour fonctionner en environnements isolés (Air-Gapped) et rejettent le paradigme du "Tout-Cloud". Poursuivre le développement d'un écosystème souverain sur une plateforme propriétaire fermée créait une dissonance avec nos valeurs fondamentales.
-2. **Adoption de l'Open Core** : En rejoignant GitLab, nous nous inscrivons dans une démarche technologique transparente et plus proche de l'Open Source, en adéquation avec notre vision d'un numérique libre.
-3. **Pérennité et Contrôle** : Ce nouvel environnement nous offre une maîtrise accrue sur nos processus de développement, nos données, et l'hébergement de notre code.
+- Code source ouvert (GPLv3 ou AGPLv3), compilé et publié par l'intégration continue.
+- Versions signées : Windows par l'association, macOS notarisé par Apple, empreintes SHA-256.
+- Aucune télémétrie, aucun compte obligatoire.
 
-#### Nos Projets Principaux
+## Nous trouver
 
-*   **T2DECODE** : L'outil phare de l'organisation. Une plateforme d'apprentissage hors-ligne complète, intégrant des simulateurs interactifs, des outils de sécurité réseau (NetKit), et une IA locale performante (`Ghost AI`).
-*   **Les Outils T2C** : Nos suites de scripts et d'utilitaires pensés pour la résilience, la confidentialité et l'anonymat.
-
-<br/>
-
-<div align="center">
-
-### Rejoignez-nous dans cette nouvelle étape de notre développement.
-
-<br/>
-
-<a href="https://gitlab.com/tutodecode-org">
-  <img src="https://img.shields.io/badge/Découvrir_tous_nos_projets_sur_GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-</a>
-
-</div>
+- Miroir GitLab : [gitlab.com/tutodecode-org](https://gitlab.com/tutodecode-org)
+- Contact : via les tickets des dépôts
+- Contributions bienvenues : voir le fichier `CONTRIBUTING.md` de chaque projet.
